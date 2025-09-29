@@ -20,7 +20,7 @@ Read or watch:
 
 ## Learning Objectives
 
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique), without the help of Google:
 
 ## General
 
@@ -50,7 +50,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 0. Simple-basic-API
 
-Download and start your project from this archive.zip
+Download and start your project from this [archive.zip](https://github.com/leone-nyaga/alx-backend-user-data/tree/master/0x01-Basic_authentication/SimpleAPI)
 
 In this archive, you will find a simple API with one model: User. Storage of these users is done via a serialization/deserialization in files.
 
